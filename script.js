@@ -1,7 +1,7 @@
 // This sets up the variables needed.
 let diameter = 0
 let radius = 0
-let pi = Math.PI;
+const pi = Math.PI
 let area = 0
 let circumference = 0
 // This makes the calculate button activate the areaCircumference function.
